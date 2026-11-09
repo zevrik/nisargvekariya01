@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/nisargvekariya01">
-    <img src="https://img.shields.io/github/followers/nisargvekariya01?label=Followers&style=flat&color=1DA1F2&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/zevrik?label=Followers&style=flat&color=1DA1F2&logo=github" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -54,7 +54,7 @@ me.say_hello()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-vekariya-06053a315/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisargvekariya01)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zevrik)
 
 </div>
 
@@ -109,14 +109,14 @@ me.say_hello()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nisargvekariya01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nisargvekariya01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zevrik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zevrik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nisargvekariya01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=zevrik&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 </div>
 
 ---
@@ -124,7 +124,7 @@ me.say_hello()
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph-fawn-one.vercel.app/graph?username=nisargvekariya01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph-fawn-one.vercel.app/graph?username=zevrik&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
